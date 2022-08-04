@@ -1,19 +1,13 @@
-<p align="center">   
+<h1 align="center">Hello earthling ✌️</h1>
+<h3 align="center">Welcome to my github. My name is Gabriel and I'm a big fan of programming.</h3>
 
-<samp>
-    <br>
-    <b>Hello earthling ✌️</b>
-    </br>
-    <br>
-    Welcome to my github. My name is Gabriel and I'm a big fan of programming.
-    </br>
-<samp>
+<p align="center">   
   <img src="https://i.imgur.com/y6xaVmr.gif" alt="img" width="30%" align="center"/>
 </p>
   
 ##
 
-### Languages and Stacks
+### Languages and Stacks:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -24,7 +18,7 @@
 
 ##
 
-### Contact me
+### Contact me:
   
 <a href="https://discord.com/users/534489685439807489">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
@@ -35,7 +29,10 @@
 
 ##
 
+### Stats:
+
 <div align="center">
   <a href="https://github.com/gabrideiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrideiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrideiros&theme=tokyonight#version3">
 </div>
